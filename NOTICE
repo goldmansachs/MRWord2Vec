@@ -1,0 +1,25 @@
+MRWord2Vec
+Copyright 2019 Goldman Sachs
+Licensed under Apache 2.0 license
+
+This product includes software developed at
+The Apache Software Foundation (http://www.apache.org/).
+
+This product uses the following software:
+
+Apache HBase Client
+Copyright 2007-2019 The Apache Software Foundation
+Licensed under the Apache License v2.0
+
+Apache Hadoop Common
+Copyright 2007-2019 The Apache Software Foundation
+Licensed under the Apache License v2.0
+
+Apache Hadoop MapReduce Core
+Copyright 2007-2019 The Apache Software Foundation
+Licensed under the Apache License v2.0
+
+jblas
+Copyright (c) 2009, Mikio L. Braun and contributors
+All rights reserved.
+Licensed under BSD 3-Clause "New" or "Revised" License

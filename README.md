@@ -121,7 +121,7 @@ embeddings for lower case and upper case words.
 The class used to run MRWord2Vec is `Word2VecDriver.java`.
 This class takes some arguments and runs the MapReduce jobs.
 
-##### Arguments
+#####Arguments
 
 1. **queue\_name** : A required argument. Example usage: `-queue_name=my_queue_name`. 
 The name of the queue on which to run the MapReduce jobs.
