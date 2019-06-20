@@ -1,9 +1,0 @@
-<build>
-   <asset artifactId="machine-learning.word2vec"
-          name="machine-learning.word2vec.jar"
-          packaging="jar"
-          path="machine-learning.word2vec.jar">
-	<deploy name="machine-learning.word2vec" unpack="false" />
-  </asset>
-  <deployment name="machine-learning.word2vec" type="gns" /> 
-</build>

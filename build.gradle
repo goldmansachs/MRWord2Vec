@@ -1,4 +1,4 @@
-apply plugin: 'cbk-java-lib'
+apply plugin: 'java'
 
 group 'com.gs.mrword2vec'
 version '1.0'
